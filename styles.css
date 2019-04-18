@@ -12,3 +12,12 @@ body {
 .blue_robot {
 
 }
+
+.hello{
+  font-size: 34px;
+  color: black;
+  background-color: pink;
+  display: flex;
+  justify-content: center;
+  margin: 25% 25%;
+}
